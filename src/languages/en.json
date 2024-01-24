@@ -1,0 +1,11 @@
+{
+  "home": {
+    "title": "Hello"
+  },
+  "products": {
+    "title": "Test product"
+  },
+  "counter": {
+    "increment": "Add"
+  }
+}
